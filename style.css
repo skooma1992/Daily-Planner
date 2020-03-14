@@ -1,0 +1,72 @@
+.saveBtn {
+    border-left: 1px solid black;
+    background-color: #06AED5;
+    color: white;
+    width: 100%;
+    height: 50%
+  }
+  
+  .clearBtn {
+    border-left: 1px solid black;
+    background-color: red;
+    color: white;
+    width: 100%;
+    height: 50%
+  }
+  
+  .today{
+    text-align: center;
+  }
+  
+  .col-lg-1, .col-lg-10{
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+
+body {
+    line-height: 1;
+    color: black;
+  }
+
+  .jumbotron {
+    text-align: center;
+    color: teal;
+    border-bottom: 10px solid teal;
+  }
+
+  .description{
+    width: 100%;
+    height: 100%;
+  }
+  
+  .time-block{
+    text-align: center;
+  }
+
+  textarea{
+    border-left: 2px solid teal;
+    padding: 10px;
+  }
+
+  .hour {
+    background-color: #ffffff;
+    color: #000000;
+    border-top: 1px dashed #000000;
+  }
+  
+  .past {
+    background-color: #d3d3d3;
+    color: black;
+  }
+  
+  .present {
+    background-color: #ff6961;
+    color: black;
+  }
+  
+  .future {
+    background-color: #77dd77;
+    color: black;
+  }
+  
+  
